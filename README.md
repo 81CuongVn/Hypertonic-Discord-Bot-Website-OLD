@@ -9,7 +9,7 @@ https://hypertonicnetwork.weebly.com/
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 NONE - Just needs all the files that are included!
