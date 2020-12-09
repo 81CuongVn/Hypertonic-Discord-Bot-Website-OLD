@@ -17,3 +17,15 @@ body{
 
   background-color:#131e29;
 }
+
+body {
+  padding-bottom: 20px;
+}
+.navbar {
+  margin-bottom: 30px;
+}
+h1 {
+ text-align: center;
+}
+
+
